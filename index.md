@@ -1,7 +1,7 @@
 ## Welcome to 카림의기사
 
-[페이지1](https://github.com/Manuel83/sample/edit/master/index.md)
-[페이지2](https://github.com/Manuel83/sample/edit/master/index.md)
+[페이지1](p1.md)
+[페이지2](p2.md)
 
 
 
