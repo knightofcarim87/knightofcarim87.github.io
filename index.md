@@ -1,6 +1,9 @@
 ## Welcome to 카림의기사
 
-You can use the [editor on GitHub](https://github.com/Manuel83/sample/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[페이지1](https://github.com/Manuel83/sample/edit/master/index.md)
+[페이지2](https://github.com/Manuel83/sample/edit/master/index.md)
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
